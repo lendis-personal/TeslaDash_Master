@@ -28,8 +28,8 @@ TeslaDash Master is a powerful post-processing tool for Tesla Dashcam and Sentry
 
 5. SUPPORT & DONATION
 If you find this tool useful, please consider supporting the developer:
-- Buy Me a Coffee: [Your Link Here]
-- LINE Pay / StreetPay: [Your QR Code Link/ID Here]
+- Buy Me a Coffee: https://buymeacoffee.com/lendis
+- LINE Pay / StreetPay: lendis28
 
 6. FEEDBACK
 For bug reports or feature requests, please contact the developer via GitHub or the original release platform.
@@ -66,8 +66,8 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 
 5. 支持與贊助
 如果您覺得這個工具有幫助，請考慮支持開發者：
-- Buy Me a Coffee: [您的連結]
-- LINE Pay / 街口支付: [您的 QR Code 或 ID]
+- Buy Me a Coffee: https://buymeacoffee.com/lendis
+- LINE Pay / 街口支付: lendis28
 
 6. 反饋
 如需回報 Bug 或功能建議，請透過 GitHub 或原始發布平台聯繫開發者。
