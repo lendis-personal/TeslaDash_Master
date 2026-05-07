@@ -18,7 +18,6 @@ TeslaDash Master is a powerful post-processing tool for Tesla Dashcam and Sentry
 - OS: Windows 10 / 11 (64-bit Only).
 - CPU: Intel i5 / Ryzen 5 or higher.
 - GPU: Hardware acceleration (NVIDIA/AMD/Intel) highly recommended.
-- Software: FFmpeg must be present in the 'bin' folder.
 
 4. QUICK START
 - Launch the application and click "Open Folder".
@@ -56,7 +55,6 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 - 作業系統：Windows 10 / 11 (僅限 64 位元)。
 - 處理器：Intel i5 / Ryzen 5 或更高。
 - 顯示卡：強烈建議具備硬體加速（NVIDIA/AMD/Intel）。
-- 軟體：'bin' 資料夾內必須存有 FFmpeg。
 
 4. 快速上手
 - 啟動程式並點擊「開啟資料夾」。
@@ -81,12 +79,12 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 ![中文介面](images/ui-main-zh.png)
 ![英文介面](images/ui-main-en.png)
 
-### 轉檔輸出 - 橫式傳統排版 (Export - Horizontal Layout 4:3)
+### 轉檔匯出 - 橫式傳統排版 (Export - Horizontal Layout 4:3)
 *HUD 儀表板與地圖軌跡疊加，適合 YouTube 與事故分析。*
 ![中文橫式](images/export-horizontal-zh.jpg)
 ![英文橫式](images/export-horizontal-en.jpg)
 
-### 轉檔輸出 - 直式短影音排版 (Export - Vertical Shorts 9:16)
+### 轉檔匯出 - 直式短影音排版 (Export - Vertical Shorts 9:16)
 *專為手機觀看優化，適合 IG Reels、TikTok 與 YouTube Shorts。*
 ![中文直式](images/export-vertical-zh.jpg)
 ![英文直式](images/export-vertical-en.jpg)
