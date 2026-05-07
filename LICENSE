@@ -1,0 +1,52 @@
+TeslaDash Master - End User License Agreement (EULA)
+--------------------------------------------------
+Copyright (c) 2026 Lendis. All rights reserved.
+
+"TeslaDash Master" (hereinafter referred to as "the Software") is provided as "Donationware". By installing and using this Software, you agree to the following terms:
+
+1. GRANT OF LICENSE
+You are granted a non-exclusive, non-transferable license to use the Software for personal, non-commercial purposes.
+
+2. RESTRICTIONS
+You may not:
+- Modify, reverse engineer, decompile, or disassemble the Software.
+- Sell, rent, or lease the Software for commercial profit.
+- Remove or alter any copyright notices or branding (e.g., "Crafted by Lendis").
+
+3. DONATIONWARE MODEL
+The Software is free to use. However, users are encouraged to support the developer via voluntary donations (e.g., Buy Me a Coffee, LINE Pay). Donations do not constitute a purchase of ownership.
+
+4. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE DEVELOPER SHALL NOT BE LIABLE FOR ANY DAMAGES (INCLUDING BUT NOT LIMITED TO DATA LOSS OR HARDWARE DAMAGE) ARISING FROM THE USE OF THE SOFTWARE. USE AT YOUR OWN RISK.
+
+5. THIRD-PARTY LIBRARIES
+The Software utilizes FFmpeg (LGPL) and OSM tiles. Use of these components is subject to their respective licenses.
+
+--------------------------------------------------
+
+TeslaDash Master - 終端使用者授權合約 (EULA)
+--------------------------------------------------
+版權所有 (c) 2026 Lendis。保留所有權利。
+
+「TeslaDash Master」（以下簡稱「本軟體」）係以「贊助軟體 (Donationware)」形式提供。安裝並使用本軟體，即表示您同意以下條款：
+
+1. 授權許可
+您被授予非排他性、不可轉讓的許可，僅限個人、非商業用途使用本軟體。
+
+2. 使用限制
+您不得：
+- 修改、逆向工程、反編譯或拆解本軟體。
+- 出於商業獲利目的銷售、出租或租賃本軟體。
+- 移除或更改任何版權聲明或品牌標記（例如「Crafted by Lendis」）。
+
+3. 贊助軟體模式
+本軟體可免費使用。但鼓勵使用者透過自願贊助（例如 Buy Me a Coffee、LINE Pay）支持開發者。贊助並不構成所有權的購買。
+
+4. 免責聲明
+本軟體按「原樣」提供，不提供任何形式的保證。開發者對因使用本軟體而產生的任何損害（包括但不限於數據流失或硬體損壞）不承擔任何責任。風險由使用者自擔。
+
+5. 第三方庫
+本軟體使用了 FFmpeg (LGPL) 與 OSM 地圖圖磚。使用這些組件須遵守其各自的許可證。
+
+--------------------------------------------------
+感謝您支持獨立開發！
