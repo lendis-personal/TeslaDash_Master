@@ -78,8 +78,8 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 ## 🌟 實際效果 (Screenshots)
 
 ### 軟體主介面 (User Interface)
-![中文介面](images/ui-main-zh.jpg)
-![英文介面](images/ui-main-en.jpg)
+![中文介面](images/ui-main-zh.png)
+![英文介面](images/ui-main-en.png)
 
 ### 橫式傳統排版 (Horizontal Layout 4:3)
 *完美的 HUD 儀表板與地圖軌跡疊加，適合 YouTube 與事故分析。*
