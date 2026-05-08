@@ -1,4 +1,4 @@
-TeslaDash Master V2.0 - Readme
+TeslaDash Master V2.1 - Readme
 ==================================================
 
 Developed by Lendis | 2026
@@ -13,6 +13,7 @@ TeslaDash Master is a powerful post-processing tool for Tesla Dashcam and Sentry
 - Director Mode for manual camera switching.
 - GPX Track Export for Google My Maps.
 - SHA-256 Signature protection for telemetry data.
+- Video zoom function
 
 3. SYSTEM REQUIREMENTS
 - OS: Windows 10 / 11 (64-bit Only).
@@ -34,7 +35,7 @@ If you find this tool useful, please consider supporting the developer:
 
 
 
-TeslaDash Master V2.0 - 讀我檔案
+TeslaDash Master V2.1 - 讀我檔案
 ==================================================
 
 開發者：Lendis | 2026
@@ -49,6 +50,7 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 - 導演模式可手動切換鏡頭。
 - 可匯出 GPX 軌跡供 Google 我的地圖使用。
 - 遙測數據具備 SHA-256 簽章保護。
+- 子螢幕縮放功能。
 
 3. 系統需求
 - 作業系統：Windows 10 / 11 (僅限 64 位元)。
@@ -87,7 +89,7 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 
 > ---
 ## 📥📥 Download & Installation (下載與安裝)
-👉 Download Latest Version (最點此下載新版) https://github.com/lendis-personal/TeslaDash_Master/releases/tag/v2.0.0
+👉 Download Latest Version (最點此下載新版) https://github.com/lendis-personal/TeslaDash_Master/releases/tag/v2.1.0
 
 > ⚠️ **Installation & Security Notice (安裝與安全小提醒)**：
 
@@ -97,7 +99,7 @@ How to install: Simply click "More info" ➡️ then click "Run anyway" to proce
 
 🛡️ Security Guarantee: This installer has been scanned by VirusTotal using 60+ mainstream antivirus engines. (Note: Due to the Nuitka executable packing process, 1 or 2 engines might show a low-confidence Machine Learning false positive. All major engines like Microsoft Defender report it as 100% clean).
 
-📄 View the full scan report: VirusTotal Report https://www.virustotal.com/gui/file/5de4c236d8e63d54c8f72fe00af6b154ca8da33fff1e7b8a5ab6abb0f1c8dd23?nocache=1
+📄 View the full scan report: VirusTotal Report https://www.virustotal.com/gui/file/69fca1c00ae5619e9dfed423ebf94a2105d0a3d5fcf8747aa641566f21d945e6?nocache=1
 > ---
 本軟體為獨立開發者利用業餘時間打造的免費工具。由於未購買微軟企業數位簽章，首次安裝時 Windows 可能會彈出「Windows 保護您的電腦」藍色提示畫面。
 
@@ -105,4 +107,4 @@ How to install: Simply click "More info" ➡️ then click "Run anyway" to proce
 
 🛡️ 安全保證：本安裝檔已經過 VirusTotal 全球 60+ 款主流防毒軟體檢測確認安全！(註：因採用 Nuitka 封裝技術，極少數防毒引擎可能會產生機器學習的啟發式誤判，微軟等多數大廠皆檢測為安全)。
 
-📄 查看完整掃毒報告：VirusTotal 檢測報告 https://www.virustotal.com/gui/file/5de4c236d8e63d54c8f72fe00af6b154ca8da33fff1e7b8a5ab6abb0f1c8dd23?nocache=1
+📄 查看完整掃毒報告：VirusTotal 檢測報告 https://www.virustotal.com/gui/file/69fca1c00ae5619e9dfed423ebf94a2105d0a3d5fcf8747aa641566f21d945e6?nocache=1
