@@ -86,10 +86,11 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 ![英文直式](images/export-vertical-en.jpg)
 
 > ---
-📥 Download & Installation (下載與安裝)
-👉 Download Latest Version (最點此下載新版)
+## 📥📥 Download & Installation (下載與安裝)
+👉 Download Latest Version (最點此下載新版) https://github.com/lendis-personal/TeslaDash_Master/releases/tag/v2.0.0
 
-⚠️ Installation & Security Notice (安裝與安全小提醒)
+> ⚠️ **Installation & Security Notice (安裝與安全小提醒)**：
+
 This software is a free tool built by an independent developer. Because it does not have an enterprise Microsoft Code Signing Certificate, Windows might display a blue "Windows protected your PC" SmartScreen warning when you first run the installer.
 
 How to install: Simply click "More info" ➡️ then click "Run anyway" to proceed safely.
@@ -105,15 +106,3 @@ How to install: Simply click "More info" ➡️ then click "Run anyway" to proce
 🛡️ 安全保證：本安裝檔已經過 VirusTotal 全球 60+ 款主流防毒軟體檢測確認安全！(註：因採用 Nuitka 封裝技術，極少數防毒引擎可能會產生機器學習的啟發式誤判，微軟等多數大廠皆檢測為安全)。
 
 📄 查看完整掃毒報告：VirusTotal 檢測報告 https://www.virustotal.com/gui/file/df813229ceccafc3b932fe7c4fab0689e7afba56b3655459254c4364e27d3e35?nocache=1
-
-[English]
-This software is a free tool built by an independent developer. Because it does not have an enterprise Microsoft Code Signing Certificate, Windows might display a blue "Windows protected your PC" SmartScreen warning when you first run the installer.
-
-How to install: Simply click "More info" ➡️ then click "Run anyway" to proceed safely.
-
-🛡️ Security Guarantee: This installer has been scanned by VirusTotal using 60+ mainstream antivirus engines. (Note: Due to the Nuitka executable packing process, 1 or 2 engines might show a low-confidence Machine Learning false positive. All major engines like Microsoft Defender report it as 100% clean).
-
-📄 View the full scan report: VirusTotal Report https://www.virustotal.com/gui/file/df813229ceccafc3b932fe7c4fab0689e7afba56b3655459254c4364e27d3e35?nocache=1
-
----
-
