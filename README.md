@@ -84,3 +84,19 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 *專為手機觀看優化，適合 IG Reels、TikTok 與 YouTube Shorts。*
 ![中文直式](images/export-vertical-zh.jpg)
 ![英文直式](images/export-vertical-en.jpg)
+
+==================================================
+## 📥 下載與安裝 (Download & Installation)
+
+👉 **點此前往 Releases 頁面下載最新版 https://github.com/lendis-personal/TeslaDash_Master/releases/tag/v2.0.0
+
+> ⚠️ **安裝與安全小提醒 (Installation & Security Notice)**：
+> 
+> 本軟體為獨立開發者利用業餘時間打造的免費工具。由於未購買微軟企業數位簽章，首次安裝時 Windows 可能會彈出「Windows 保護您的電腦」藍色提示畫面。
+> 
+> * **安裝方式**：請點擊 **「其他資訊 (More info)」** ➡️ 點選 **「仍要執行 (Run anyway)」** 即可順利安裝。
+> * 🛡️ **安全保證**：本安裝檔已經過 VirusTotal 全球 60+ 款主流防毒軟體檢測確認安全！*(註：因採用 Nuitka 封裝技術，極少數防毒引擎可能會產生機器學習的啟發式誤判，微軟等多數大廠皆檢測為安全)*。
+> * 📄 **查看完整掃毒報告**：[VirusTotal 檢測報告] https://www.virustotal.com/gui/file/df813229ceccafc3b932fe7c4fab0689e7afba56b3655459254c4364e27d3e35?nocache=1
+
+---
+
