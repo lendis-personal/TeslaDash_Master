@@ -1,4 +1,4 @@
-TeslaDash Master V2.1 - Readme
+TeslaDash Master V2.2 - Readme
 ==================================================
 
 Developed by Lendis | 2026
@@ -13,7 +13,8 @@ TeslaDash Master is a powerful post-processing tool for Tesla Dashcam and Sentry
 - Director Mode for manual camera switching.
 - GPX Track Export for Google My Maps.
 - SHA-256 Signature protection for telemetry data.
-- Video zoom function
+- Video zoom function (New in V2.1)
+- Playlist filtering function: Quickly find event videos (New in V2.2)
 
 3. SYSTEM REQUIREMENTS
 - OS: Windows 10 / 11 (64-bit Only).
@@ -35,7 +36,7 @@ If you find this tool useful, please consider supporting the developer:
 
 
 
-TeslaDash Master V2.1 - 讀我檔案
+TeslaDash Master V2.2 - 讀我檔案
 ==================================================
 
 開發者：Lendis | 2026
@@ -50,7 +51,8 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 - 導演模式可手動切換鏡頭。
 - 可匯出 GPX 軌跡供 Google 我的地圖使用。
 - 遙測數據具備 SHA-256 簽章保護。
-- 子螢幕縮放功能。
+- 子螢幕縮放功能。 (V2.1)
+- 播放清單篩選功能:快速找出事件影片 (V2.2 新增)
 
 3. 系統需求
 - 作業系統：Windows 10 / 11 (僅限 64 位元)。
@@ -80,12 +82,10 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 ### 轉檔匯出 - 橫式傳統排版 (Export - Horizontal Layout 4:3)
 *HUD 儀表板與地圖軌跡疊加，適合 YouTube 與事故分析。*
 ![中文橫式](images/export-horizontal-zh.jpg)
-![英文橫式](images/export-horizontal-en.jpg)
 
 ### 轉檔匯出 - 直式短影音排版 (Export - Vertical Shorts 9:16)
 *專為手機觀看優化，適合 IG Reels、TikTok 與 YouTube Shorts。*
 ![中文直式](images/export-vertical-zh.jpg)
-![英文直式](images/export-vertical-en.jpg)
 
 > ---
 ## 📥📥 Download & Installation (下載與安裝)
