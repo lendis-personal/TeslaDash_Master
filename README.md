@@ -89,7 +89,7 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 
 > ---
 ## 📥📥 Download & Installation (下載與安裝)
-👉 Download Latest Version (最點此下載新版) https://github.com/lendis-personal/TeslaDash_Master/releases/tag/v2.1.0
+👉 Download Latest Version (最點此下載新版) https://github.com/lendis-personal/TeslaDash_Master/releases/
 
 > ⚠️ **Installation & Security Notice (安裝與安全小提醒)**：
 
