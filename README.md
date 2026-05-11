@@ -99,7 +99,7 @@ How to install: Simply click "More info" ➡️ then click "Run anyway" to proce
 
 🛡️ Security Guarantee: This installer has been scanned by VirusTotal using 60+ mainstream antivirus engines. (Note: Due to the Nuitka executable packing process, 1 or 2 engines might show a low-confidence Machine Learning false positive. All major engines like Microsoft Defender report it as 100% clean).
 
-📄 View the full scan report: [VirusTotal Report](https://www.virustotal.com/gui/file/fa7b2a484ea7cc2f17911f5e3e680a092410a44f320f561b761f22c6ffcfca70?nocache=1)
+📄 View the full scan report: [VirusTotal Report](https://www.virustotal.com/gui/file/1b79ada434c90442362642cd6179b55405b986376335d78004ee89f78f81852d?nocache=1)
 > ---
 本軟體為獨立開發者利用業餘時間打造的免費工具。由於未購買微軟企業數位簽章，首次安裝時 Windows 可能會彈出「Windows 保護您的電腦」藍色提示畫面。
 
@@ -107,4 +107,4 @@ How to install: Simply click "More info" ➡️ then click "Run anyway" to proce
 
 🛡️ 安全保證：本安裝檔已經過 VirusTotal 全球 60+ 款主流防毒軟體檢測確認安全！(註：因採用 Nuitka 封裝技術，極少數防毒引擎可能會產生機器學習的啟發式誤判，微軟等多數大廠皆檢測為安全)。
 
-📄 查看完整掃毒報告：[VirusTotal 檢測報告](https://www.virustotal.com/gui/file/fa7b2a484ea7cc2f17911f5e3e680a092410a44f320f561b761f22c6ffcfca70?nocache=1)
+📄 查看完整掃毒報告：[VirusTotal 檢測報告](https://www.virustotal.com/gui/file/1b79ada434c90442362642cd6179b55405b986376335d78004ee89f78f81852d?nocache=1)
