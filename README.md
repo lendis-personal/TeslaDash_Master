@@ -17,9 +17,10 @@ TeslaDash Master is a powerful post-processing tool for Tesla Dashcam and Sentry
 - Playlist filtering function: Quickly find event videos (New in V2.2)
 
 3. SYSTEM REQUIREMENTS
-- OS: Windows 10 / 11 (64-bit Only).
-- CPU: Intel i5 / Ryzen 5 or higher.
-- GPU: Hardware acceleration (NVIDIA/AMD/Intel) highly recommended.
+- OS: Windows 10 / 11 (64-bit Only) or macOS 11.0+ (Big Sur or later).
+- CPU: Intel i5 / Ryzen 5 / Apple Silicon (M1/M2/M3) or higher.
+- GPU: Hardware acceleration (NVIDIA / AMD / Intel / Apple Metal) highly recommended.
+- Note (macOS Only): To use the video export/conversion features, FFmpeg must be installed on your system (Recommended via Homebrew: brew install ffmpeg).
 
 4. QUICK START
 - Launch the application and click "Open Folder".
@@ -30,7 +31,7 @@ TeslaDash Master is a powerful post-processing tool for Tesla Dashcam and Sentry
 5. SUPPORT & DONATION
 If you find this tool useful, please consider supporting the developer:
 - Buy Me a Coffee: https://ko-fi.com/lendis
-- LINE Pay / StreetPay: lendis28
+- LINE Pay : lendis28
 
 ==================================================
 
@@ -55,9 +56,10 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 - 播放清單篩選功能:快速找出事件影片 (V2.2 新增)
 
 3. 系統需求
-- 作業系統：Windows 10 / 11 (僅限 64 位元)。
-- 處理器：Intel i5 / Ryzen 5 或更高。
-- 顯示卡：強烈建議具備硬體加速（NVIDIA/AMD/Intel）。
+- 作業系統： Windows 10 / 11 (僅限 64 位元) 或 macOS 11.0+ (Big Sur 或更新版本)。
+- 處理器： Intel i5 / Ryzen 5 / Apple Silicon (M1/M2/M3) 或更高。
+- 顯示卡： 強烈建議具備硬體加速（NVIDIA / AMD / Intel / Apple Metal）。
+- 注意 (僅限 Mac 使用者)： 若需使用影片轉檔與匯出功能，系統必須先安裝 FFmpeg（建議透過終端機使用 Homebrew 安裝：brew install ffmpeg）。
 
 4. 快速上手
 - 啟動程式並點擊「開啟資料夾」。
@@ -68,7 +70,7 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 5. 支持與贊助
 如果您覺得這個工具有幫助，請考慮支持開發者：
 - Buy Me a Coffee: https://ko-fi.com/lendis
-- LINE Pay / 街口支付: lendis28
+- LINE Pay : lendis28
 
 ==================================================
 
@@ -99,7 +101,7 @@ How to install: Simply click "More info" ➡️ then click "Run anyway" to proce
 
 🛡️ Security Guarantee: This installer has been scanned by VirusTotal using 60+ mainstream antivirus engines. (Note: Due to the Nuitka executable packing process, 1 or 2 engines might show a low-confidence Machine Learning false positive. All major engines like Microsoft Defender report it as 100% clean).
 
-📄 View the full scan report: [VirusTotal Report](https://www.virustotal.com/gui/file/1b79ada434c90442362642cd6179b55405b986376335d78004ee89f78f81852d?nocache=1)
+📄 View the full scan report: [VirusTotal Report](https://www.virustotal.com/gui/file/391ad213851b94e0916340d2570ab4f4cc281093e4d7e5d36b0f653f4d625a6a?nocache=1)
 > ---
 本軟體為獨立開發者利用業餘時間打造的免費工具。由於未購買微軟企業數位簽章，首次安裝時 Windows 可能會彈出「Windows 保護您的電腦」藍色提示畫面。
 
@@ -107,4 +109,4 @@ How to install: Simply click "More info" ➡️ then click "Run anyway" to proce
 
 🛡️ 安全保證：本安裝檔已經過 VirusTotal 全球 60+ 款主流防毒軟體檢測確認安全！(註：因採用 Nuitka 封裝技術，極少數防毒引擎可能會產生機器學習的啟發式誤判，微軟等多數大廠皆檢測為安全)。
 
-📄 查看完整掃毒報告：[VirusTotal 檢測報告](https://www.virustotal.com/gui/file/1b79ada434c90442362642cd6179b55405b986376335d78004ee89f78f81852d?nocache=1)
+📄 查看完整掃毒報告：[VirusTotal 檢測報告](https://www.virustotal.com/gui/file/391ad213851b94e0916340d2570ab4f4cc281093e4d7e5d36b0f653f4d625a6a?nocache=1)
