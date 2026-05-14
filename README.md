@@ -1,4 +1,4 @@
-TeslaDash Master V2.2 - Readme
+TeslaDash Master V2.3 - Readme
 ==================================================
 
 Developed by Lendis | 2026
@@ -15,6 +15,7 @@ TeslaDash Master is a powerful post-processing tool for Tesla Dashcam and Sentry
 - SHA-256 Signature protection for telemetry data.
 - Video zoom function (New in V2.1)
 - Playlist filtering function: Quickly find event videos (New in V2.2)
+- Map Gallery (New in V2.3)
 
 3. SYSTEM REQUIREMENTS
 - OS: Windows 10 / 11 (64-bit Only) or macOS 11.0+ (Big Sur or later).
@@ -37,7 +38,7 @@ If you find this tool useful, please consider supporting the developer:
 
 
 
-TeslaDash Master V2.2 - 讀我檔案
+TeslaDash Master V2.3 - 讀我檔案
 ==================================================
 
 開發者：Lendis | 2026
@@ -54,6 +55,7 @@ TeslaDash Master 是一款強大的特斯拉行車紀錄器與哨兵模式片段
 - 遙測數據具備 SHA-256 簽章保護。
 - 子螢幕縮放功能。 (V2.1 新增)
 - 播放清單篩選功能:快速找出事件影片 (V2.2 新增)
+- 地圖總覽 (V2.3 新增)
 
 3. 系統需求
 - 作業系統： Windows 10 / 11 (僅限 64 位元) 或 macOS 11.0+ (Big Sur 或更新版本)。
@@ -103,7 +105,7 @@ Bypassing Apple Security: Since this app isn't signed with a paid Apple Develope
 
 🛡️ Security Guarantee: This installer has been scanned by VirusTotal using 60+ mainstream antivirus engines. (Note: Due to the Nuitka executable packing process, 1 or 2 engines might show a low-confidence Machine Learning false positive. All major engines like Microsoft Defender report it as 100% clean).
 
-📄 View the full scan report: [VirusTotal Report](https://www.virustotal.com/gui/file/391ad213851b94e0916340d2570ab4f4cc281093e4d7e5d36b0f653f4d625a6a?nocache=1)
+📄 View the full scan report: [VirusTotal Report](https://www.virustotal.com/gui/file/046bcc55f9b5a53138321c23b3b5570ad18e1b9a9621463a7d51c95a3a71fb37?nocache=1)
 > ---
 本軟體為獨立開發者利用業餘時間打造的免費工具。由於未購買微軟企業數位簽章，首次安裝時 Windows 可能會彈出「Windows 保護您的電腦」藍色提示畫面。
 
@@ -113,4 +115,4 @@ Bypassing Apple Security: Since this app isn't signed with a paid Apple Develope
 
 🛡️ 安全保證：本安裝檔已經過 VirusTotal 全球 60+ 款主流防毒軟體檢測確認安全！(註：因採用 Nuitka 封裝技術，極少數防毒引擎可能會產生機器學習的啟發式誤判，微軟等多數大廠皆檢測為安全)。
 
-📄 查看完整掃毒報告：[VirusTotal 檢測報告](https://www.virustotal.com/gui/file/391ad213851b94e0916340d2570ab4f4cc281093e4d7e5d36b0f653f4d625a6a?nocache=1)
+📄 查看完整掃毒報告：[VirusTotal 檢測報告](https://www.virustotal.com/gui/file/046bcc55f9b5a53138321c23b3b5570ad18e1b9a9621463a7d51c95a3a71fb37?nocache=1)
